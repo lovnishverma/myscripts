@@ -1,3 +1,4 @@
+#pip install "paho-mqtt<2"
 import tkinter as tk
 import paho.mqtt.client as mqtt
 import ssl
