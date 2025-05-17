@@ -19,7 +19,7 @@ python url-to-qr.py
 
 ## Customization
 
-You can customize the following inside the scripts:
+You can customize the the scripts
 
 
 ## License
@@ -34,4 +34,4 @@ Made with ❤️ by [Lovnish Verma](https://github.com/lovnishverma)
 
 ```
 
-Guys Let me know if you'd like to include support for batch URL input, CLI arguments, or a GUI version using Tkinter or Flask.
+**Guys Let me know if you'd like to include support for batch URL input, CLI arguments, or a GUI version using Tkinter or Flask.**
