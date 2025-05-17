@@ -30,8 +30,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Made with ❤️ by [Lovnish Verma](https://github.com/lovnishverma)
 
-Guys Let me know if you'd like to include support for batch URL input, CLI arguments, or a GUI version using Tkinter or Flask.
+
 
 ```
 
----
+Guys Let me know if you'd like to include support for batch URL input, CLI arguments, or a GUI version using Tkinter or Flask.
