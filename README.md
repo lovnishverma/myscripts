@@ -10,7 +10,7 @@ A collection of handy, fun, and powerful Python scripts created for automation, 
 | Script | Description |
 |--------|-------------|
 | `PC-Cleaner.py` | Cleans temporary and junk files from your system to free up space. |
-| `files_organiser.py` | Automatically organizes files in a folder based on file types. |
+| `files_organiser.py` | Automatically organizes files in a folder based on file types. [Read Blog](https://lovnish.medium.com/automate-your-file-organization-with-python-2e721c276261) |
 | `image_kb_reducer.py` | Compresses images to reduce file size while retaining quality. |
 | `pdfs-merger.py` / `PDF-Merger.py` | Merges multiple PDF files into a single file. |
 | `ppttopdf.py` | Converts PowerPoint presentations (.pptx) to PDF format. |
